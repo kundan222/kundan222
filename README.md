@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Professional from India</h3>
 
 - 📫 How to reach me **kundankumawat222@gmail.com**
-- 📫 How to reach me on Linkedin : [LinkedIn - 	@kundan222]([https://www.linkedin.com/in/ashishrshukla/](https://www.linkedin.com/in/kundan-kumawat-617925188/))
+- 📫 How to reach me on Linkedin : [LinkedIn - 	@kundan222](https://www.linkedin.com/in/kundan-kumawat-617925188/))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
