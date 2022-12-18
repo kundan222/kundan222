@@ -2,9 +2,18 @@
 <h3 align="center">A passionate Data Professional from India</h3>
 
 - 📫 How to reach me **kundankumawat222@gmail.com**
-
+- 📫 How to reach me on Linkedin : [LinkedIn - 	@kundan222]([https://www.linkedin.com/in/ashishrshukla/](https://www.linkedin.com/in/kundan-kumawat-617925188/))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+</p>
+
+<h3 align="left">Skills:</h3>
+<p align="left">
+1. Libraries: NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Statsmodels.
+2. Machine Learning: Supervised Learning, Unsupervised Learning.
+3. Algorithms: Linear Regression, Logistic Regression, Hierarchical Clustering, K-Means Clustering,
+DBSCAN, Ensemble Techniques, Random Forest.
+4. Tools: MS Excel, Python, MySQL,Javascript,MongoDB.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
